@@ -1,1 +1,3 @@
-# light_sequence_select
+# Light Sequence Selector
+
+#### This program selects between three different light sequences.
